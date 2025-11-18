@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-community
+chromadb
+sentence-transformers
+transformers
+torch
